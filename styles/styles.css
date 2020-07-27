@@ -1,0 +1,28 @@
+body {
+    font-family: 'Ubuntu Mono', monospace;
+}
+#anotar {
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+    border: none;
+    background-color: whitesmoke;
+}
+.botao {
+    height: 30px;
+    width: 50px;
+    border: none;
+    border-radius: 8px;
+}
+anotado{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    height: 60px;
+    border-radius: 8px;
+    background-color: whitesmoke;
+}
+anotado:hover{
+    background-color: #feffb0;
+}
